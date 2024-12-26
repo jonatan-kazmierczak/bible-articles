@@ -1,1 +1,1 @@
-[Abstain from blood](./blood.md)
+[Abstain from blood](./blood.md#abstain-from-blood)
